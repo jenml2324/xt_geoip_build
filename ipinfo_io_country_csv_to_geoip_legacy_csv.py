@@ -1,3 +1,4 @@
+#!/usr/bin/python3
 # Convert ipinfo.io csv data to xtables legacy format
 
 import csv
